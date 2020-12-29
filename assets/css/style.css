@@ -1,0 +1,42 @@
+.navbar-light .navbar-nav .nav-link{
+    color: #389eb6;
+}
+.navbar-light .navbar-nav .btn{
+    background-color: #283d70;
+    border: none;
+    color: white;
+    border-radius: 50px;
+}
+
+.hero {
+    background: url(../img/bg-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 120vh;
+    margin-bottom: 0;
+}
+
+.judul{
+    font-size: 5rem;
+    color: #273e71;
+    letter-spacing: 1rem;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.sub-judul {
+    font-size: 4.5rem;
+    margin-top: 0;
+    color: #1eaeae;
+}
+.icon {
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+}
+p{
+    color: #0a8383;
+    font-weight: 600;
+    text-align: justify;
+}
